@@ -1,4 +1,4 @@
-## Your Name
+## George McGowan
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2015 to June 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,11 +32,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Oxford Brookes University (September 2011 – May 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Philosophy
+- 1st
+- [Essay prize](http://www.futuretech.ox.ac.uk/thesis-competition) on the impact of future technologies 
 
 #### Any other qualifications
 
