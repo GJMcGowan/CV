@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+#### Ruby
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -45,4 +45,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **[Centre for Effective Altruism](https://centreforeffectivealtruism.org/)** (May 2014 to March 2015)    
-*Finance/Logistics Officer*  
+*Finance/Logistics Intern*  
