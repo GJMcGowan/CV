@@ -6,14 +6,18 @@ I'm a recent Makers Academy graduate with a passion for problem solving and codi
 
 #### Ruby
 
-I have developed multiple applications in Ruby and Rails. My most impressive acheivements were:
+During my time at Makers, I developed multiple applications in Ruby and Rails. My most impressive acheivements were:
 
-  - Igniteit - a site for crowdfunding community projects, developed on Rails
-  - Gymbuddy - a site to find people who go to your gym to be your buddy
+  - [Igniteit](https://github.com/IgniteIt/ignite_it) - a site for crowdfunding community projects, developed on Rails
+  - [Gymbuddy](https://github.com/sanjsanj/gymbuddy) - a site to find people who go to your gym to be your buddy, also developed using rails
+  - [A sinatra app?]
+  - 
+  
+#### Javascript
 
-- Experience
-- Achievements
-- Evidence
+The applications above include javascript on the front end, however I have also developed some applications solely in JS. I used node to run the backend in these applications:
+  - [Github profiles]
+  - 
 
 #### Another Skill
 
@@ -39,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Philosophy
 - Graduated 1st class
-- [Essay prize](http://www.futuretech.ox.ac.uk/thesis-competition) on the impact of future technologies 
+- [Essay prize](http://www.futuretech.ox.ac.uk/thesis-competition) on the impact of future technologies
 
 #### Any other qualifications
 
