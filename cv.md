@@ -41,11 +41,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Oxford Brookes University (September 2011 – May 2014)
 
-- Philosophy
-- Graduated 1st class
+- Philosophy - graduated 1st class
 - [Essay prize](http://www.futuretech.ox.ac.uk/thesis-competition) on the impact of future technologies
-
-#### Any other qualifications
 
 ## Experience
 
