@@ -1,14 +1,15 @@
 ## George McGowan
 
-A recent Makers Academy graduate with a passion for software engineering. Managed to graduate makers academy. 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a recent Makers Academy graduate with a passion for problem solving and coding. I'm looking for a role in web development with an experienced team to help me develop my skills and kickstart my career in software.
 
 ## Skills
 
 #### Ruby
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have developed multiple applications in Ruby and Rails. My most impressive acheivements were:
+
+  - Igniteit - a site for crowdfunding community projects, developed on Rails
+  - Gymbuddy - a site to find people who go to your gym to be your buddy
 
 - Experience
 - Achievements
