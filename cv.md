@@ -1,3 +1,5 @@
+#Incomplete!
+
 ## George McGowan
 
 I'm a recent Makers Academy graduate with a passion for problem solving and coding. I'm looking for a role in web development with an experienced team to help me develop my skills and kickstart my career in software.
