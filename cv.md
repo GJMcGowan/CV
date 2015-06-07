@@ -1,5 +1,3 @@
-#Incomplete!
-
 ## George McGowan
 
 I'm a recent Makers Academy graduate with a passion for problem solving and coding. I'm looking for a role in web development with an experienced team to help me develop my skills and kickstart my career in software.
@@ -12,23 +10,12 @@ During my time at Makers, I developed multiple applications in Ruby and Rails. M
 
   - [Igniteit](https://github.com/IgniteIt/ignite_it) - a site for crowdfunding community projects, developed on Rails
   - [Gymbuddy](https://github.com/sanjsanj/gymbuddy) - a site to find people who go to your gym to be your buddy, also developed using rails
-  - [A sinatra app?]
-  - 
-  
+
 #### Javascript
 
 The applications above include javascript on the front end, however I have also developed some applications solely in JS. I used node to run the backend in these applications:
-  - [Github profiles]
-  - 
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+  - [Bowling Challenge](https://github.com/GJMcGowan/bowling-challenge/blob/master/README.md) - primarily backend 
+  - [ToDo Challenge](https://github.com/GJMcGowan/todo_challenge/tree/master) - a little experiment in task management, using Node and Angular. Primarily front-end.
 
 ## Education
 
