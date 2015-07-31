@@ -14,6 +14,7 @@ During my time at Makers, I developed multiple applications in Ruby and Rails. M
 #### Javascript
 
 The applications above include javascript on the front end, however I have also developed some applications solely in JS. I used node to run the backend in these applications:
+  - [Clothes Shop](https://github.com/GJMcGowan/angular_clothing) - a challenge to make a demo clothes shop. I choose to use AngularJS for this.
   - [Bowling Challenge](https://github.com/GJMcGowan/bowling-challenge) - primarily backend javascript implementation of a bowling scoring system.
   - [ToDo Challenge](https://github.com/GJMcGowan/todo_challenge) - a little experiment in task management, using Node and Angular. Primarily front-end.
 
